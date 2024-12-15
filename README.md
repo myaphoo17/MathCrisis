@@ -1,8 +1,15 @@
-# React + Vite
+# Mathsplosion - Mental Math Game
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A fun mental math game built with **React**, **Vite**, and **Tailwind CSS**. Solve math problems, track your score, and aim to reach 100 points or avoid 5 wrong answers before time runs out.
 
-Currently, two official plugins are available:
-
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+### Tech Stack:
+- **React**: For building UI.
+- **Vite**: Fast build tool with hot module reloading.
+- **Tailwind CSS**: For responsive design.
+- **Howler.js**: For sound effects.
+- 
+### Features:
+- Multiple difficulty levels.
+- Timer countdown.
+- Scoreboard tracking.
+- Sound effects for correct/incorrect answers.
