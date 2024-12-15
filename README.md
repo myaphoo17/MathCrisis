@@ -7,7 +7,7 @@ A fun mental math game built with **React**, **Vite**, and **Tailwind CSS**. Sol
 - **Vite**: Fast build tool with hot module reloading.
 - **Tailwind CSS**: For responsive design.
 - **Howler.js**: For sound effects.
-- 
+
 ### Features:
 - Multiple difficulty levels.
 - Timer countdown.
